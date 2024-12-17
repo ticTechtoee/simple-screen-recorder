@@ -52,6 +52,7 @@ This project is open-source and free to use. Developers are welcome to collabora
 2. Create a new branch.
 3. Make your changes.
 4. Open a pull request with a description of your changes.
+5. You can also share suggestions on LinkedIn.
 
 ## License
 
